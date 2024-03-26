@@ -1,4 +1,6 @@
 console.log("Hello World");
+//308.5.1 Reusable Functions Assignment
+
 // Take an array of numbers and return the sum.
 
 let arrayOfNumbers = [31, 42, 50, 22, 96, 54, 5, 2, 10];
